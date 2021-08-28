@@ -42,8 +42,7 @@ Please refer to the individual series folder for more information regarding each
 
 ## Scientific paper
 
-This repository does not currently have a paper written for it. 
-If you use the data, please use the following cititon :
+This repository does not currently have a paper written for it. If you use the data, please use the 'Cite this repository' in the about section.
 
 
 ## Games
