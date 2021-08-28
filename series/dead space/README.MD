@@ -1,10 +1,12 @@
-# Baldur's Gate
+# Dead Space
 
 The data collected is from:
 
-- Baldur's Gate
+- Dead Space
+- Dead Space 2
+= Dead Space 3
 
 ## Dataset Information
 
-- Data included: letters, notes and books.
+- Data included: emails, notes, letters, and books.
 - Data not included: quest text and NPC conversations.
