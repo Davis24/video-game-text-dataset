@@ -1,6 +1,8 @@
 # Diablo
 
-The data collected is from Diablo III. 
+The data collected is from:
+
+- Diablo III
 
 ## Dataset Information
 
