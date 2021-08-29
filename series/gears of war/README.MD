@@ -6,7 +6,7 @@ The data collected from:
 - Gears of War 3
 - Gears of War 4
 - Gears of War 5
-- Gears of War: Judgement
+
 
 ## Dataset Information
 

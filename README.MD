@@ -2,9 +2,11 @@
 Collected in-game text like notes, letters, codex entries, and audio recordings into JSON format.
 
 ## Datasets
-All datasets are in JSON format.
+The data used to created these datasets was collected from a variety of sources (wikis, transcribing, finding in-game files w/ the data) for [LibraryofCodexes](https://libraryofcodexes.com/). There are bound to be some mistakes but I've tried to sanatize the text the best I can.  
 
-Please refer to the individual series folder for more information regarding each series.
+All datasets are in JSON format.  
+
+Please refer to the individual series folder for more information regarding each series.  
 
 - Assassin's Creed 
 - Baldur's Gate
@@ -14,7 +16,7 @@ Please refer to the individual series folder for more information regarding each
 - Destiny
 - Deus Ex
 - Diablo
-- Dishonored
+- Dishonored (TODO: Fix the Dishonored/Dishonored 2)
 - Doom
 - Dragon Age
 - Dying Light
@@ -57,16 +59,6 @@ publisher = {LucasArts},
 author = {{BioWare}},
 Howpublished = {Game [PC]},
 Note = {LucasArts, San Francisco, US},
-}
-
-@misc{game:torchlight2,
-title = {\emph{Torchlight II}},
-year = {2012},
-organization = {Runic Games},
-publisher = {Runic Games},
-author = {{Runic Games}},
-Howpublished = {Game [PC]},
-Note = {Runic Games, Seattle, Washington, US},
 }
 
 @misc{gamesseries:tes,
