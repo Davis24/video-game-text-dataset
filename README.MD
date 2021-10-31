@@ -16,7 +16,7 @@ Please refer to the individual series folder for more information regarding each
 - Destiny
 - Deus Ex
 - Diablo
-- Dishonored (TODO: Fix the Dishonored/Dishonored 2)
+- Dishonored
 - Doom
 - Dragon Age
 - Dying Light

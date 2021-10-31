@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Davis24/video-game-text-dataset",
+  "title": "video-game-text-dataset",
+  "description": "Collected in-game text like notes, letters, codex entries, and audio recordings into JSON format.",
+  "type": "object",
+  "properties": {
+    "game_title": {
+      "type": "string"
+    },
+    "series_title": {
+      "type": "string"
+    },
+    "codexes": {
+      "type": "array",
+      "items": 
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            },
+            "authors": {
+              "type": "array",
+              "items": 
+                {
+                  "type": "string"
+                }
+        
+            }
+          },
+          "required": [
+            "id",
+            "title",
+            "text",
+            "authors"
+          ]
+        }
+      
+    }
+  },
+  "required": [
+    "game_title",
+    "series_title",
+    "codexes"
+  ]
+}
